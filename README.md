@@ -21,7 +21,7 @@ Works like native commands such as `cal`.
 Make sure you have Go installed (1.18+ recommended).
 
 ```bash
-go install github.com/<your-username>/multi@latest
+go install github.com/godlykmathews/multi@latest
 ```
 
 Ensure Go bin is in PATH:
