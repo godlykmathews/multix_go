@@ -21,7 +21,7 @@ Works like native commands such as `cal`.
 Make sure you have Go installed (1.18+ recommended).
 
 ```bash
-go install github.com/godlykmathews/multi@latest
+go install github.com/godlykmathews/multix@latest
 ```
 
 Ensure Go bin is in PATH:
@@ -35,7 +35,7 @@ export PATH=$PATH:~/go/bin
 ## 🚀 Usage
 
 ```bash
-multi 5
+multix 5
 ```
 
 ### Example output
@@ -58,9 +58,9 @@ multi 5
 ## 🛠️ Build Locally
 
 ```bash
-git clone https://github.com/<your-username>/multi.git
-cd multi
-go build -o multi
+git clone https://github.com/godlykmathews/multix.git
+cd multix
+go build -o multix
 ./multi 7
 ```
 
